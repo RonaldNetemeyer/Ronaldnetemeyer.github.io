@@ -2,6 +2,8 @@
 ## home page
 [BIO](Ronaldnetemeyer.github.io/bio.md "to my bio")
 
-  [Graphic Designs](Ronaldnetemeyer.github.io/Topic.md "My designs")
+[Graphic Designs](Ronaldnetemeyer.github.io/Topic.md "My designs")
   
-    [Photo Album](Ronaldnetemeyer.github.io/Photoalbum.md "My Photos")
+[Photo Album](Ronaldnetemeyer.github.io/Photoalbum.md "My Photos")
+
+## This is my story
