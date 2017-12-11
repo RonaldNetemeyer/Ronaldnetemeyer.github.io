@@ -8,7 +8,7 @@
   
 ### [Bio](bio.md)
 
-![ME](https://www.facebook.com/photo.php?fbid=270847323031189&l=80d914fe5e)
+![ME](https://www.facebook.com/photo.php?fbid=123080364474553&l=385e4205aa)
  
 #### Address:  
 
