@@ -1,3 +1,9 @@
+[Bio](bio.md "to my bio")
+
+[What Marines are](Topic.md "Quotes")
+  
+[Photo Album](Photoalbum.md "My Photos")
+
 # What the Marines are
 
 >For over 221 years our Corps has done two things for this great Nation. We make Marines and we win battles.
