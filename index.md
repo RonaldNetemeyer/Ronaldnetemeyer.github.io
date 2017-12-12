@@ -1,4 +1,4 @@
-![USMC LOGO](https://www.bing.com/images/search?view=detailV2&ccid=PZmvMoKO&id=6DE4B7599AEE6D7AC37BEB57C411D30ADDEE13CD&thid=OIP.PZmvMoKOwsWdz8f8H-Xt2wEsBv&mediaurl=http%3a%2f%2fwww.covermyfb.com%2fmedia%2fcovers%2fthumb%2f3568-usmc.jpg&exph=315&expw=850&q=usmc+facebook+cover&simid=608025375133794526&selectedIndex=0)
+![USMC](http://images.firstcovers.com/covers/m/marines-2166.jpg?i)
 
 
 # Ronald Netemeyer
