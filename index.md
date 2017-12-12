@@ -5,7 +5,7 @@
 ## home page
 [Bio](bio.md "to my bio")
 
-[Graphic Designs](Topic.md "My designs")
+[What Marines are](Topic.md "Quotes")
   
 [Photo Album](Photoalbum.md "My Photos")
 
