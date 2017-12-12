@@ -3,6 +3,7 @@
 
 # Ronald Netemeyer
 ## home page
+
 [Bio](bio.md "to my bio")
 
 [What Marines are](Topic.md "Quotes")
