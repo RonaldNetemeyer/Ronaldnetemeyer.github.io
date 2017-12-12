@@ -4,11 +4,11 @@
 # Ronald Netemeyer
 ## home page
 
-[Bio](bio.md "to my bio")
+### [Bio](bio.md)
 
-[What Marines are](Topic.md "Quotes")
+### [What Marines are](Topic.md)
   
-[Photo Album](Photoalbum.md "My Photos")
+### [Photo Album](Photoalbum.md)
 
 ### this is for the IFSM 200 markdown assignment
 
