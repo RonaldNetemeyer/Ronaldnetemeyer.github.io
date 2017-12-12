@@ -2,11 +2,11 @@
 
 # Ronald Netemeyer
 
-### [Photo Album](Photoalbum.md)  
+[Bio](bio.md "to my bio")
+
+[What Marines are](Topic.md "Quotes")
   
-### [Topic](topic.md)  
-  
-### [Bio](bio.md)
+[Photo Album](Photoalbum.md "My Photos")
 
 ![ME](http://www2.pictures.gi.zimbio.com/Marines+Patrol+In+Fallujah+kd_imMt1gmHx.jpg)
  
