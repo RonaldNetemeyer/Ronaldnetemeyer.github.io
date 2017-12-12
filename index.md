@@ -3,7 +3,7 @@
 
 # Ronald Netemeyer
 ## home page
-
+---
 ### [Bio](bio.md)
 
 ### [What Marines are](Topic.md)
