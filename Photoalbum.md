@@ -1,3 +1,11 @@
+[Home](Index.md "Home")
+
+[Bio](bio.md "to my bio")
+
+[What Marines are](Topic.md "Quotes")
+  
+[Photo Album](Photoalbum.md "My Photos")
+
 # Our Gear
 ---
 ## M1151
