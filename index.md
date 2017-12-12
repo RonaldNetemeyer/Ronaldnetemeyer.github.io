@@ -3,11 +3,11 @@
 
 # Ronald Netemeyer
 ## home page
-[Bio](Ronaldnetemeyer.github.io/bio.md "to my bio")
+[Bio](bio.md "to my bio")
 
-[Graphic Designs](Ronaldnetemeyer.github.io/Topic.md "My designs")
+[Graphic Designs](Topic.md "My designs")
   
-[Photo Album](Ronaldnetemeyer.github.io/Photoalbum.md "My Photos")
+[Photo Album](Photoalbum.md "My Photos")
 
 ### this is for the IFSM 200 markdown assignment
 
