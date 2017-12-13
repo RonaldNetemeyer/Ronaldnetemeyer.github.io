@@ -10,7 +10,7 @@
 
 # INDESIGN
 ---
-> Document window (in the middle) displays the file you’re currently working on. Multiple open documents appear as tabs in the Document window.
+> Document window (in the middle) displays the file you are currently working on. Multiple open documents appear as tabs in the Document window.
 
 > Menu bar (at the very top) shows the File, Edit, and other menus that give you access to a variety of commands, adjustments, settings, and panels.
 
@@ -35,5 +35,5 @@
 > For text, the frame indicates the area where text is to be shown. Text frames have small boxes in the upper-left and lower-right corners which can be used to connect frames together so text can flow from one frame to another.
 
 > For images, the frame can be used to crop or mask parts of the image.
-
+---
 ![indesign](https://www.youtube.com/watch?v=AshfNo-i8Ws&sns=em)
