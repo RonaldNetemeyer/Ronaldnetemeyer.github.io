@@ -9,7 +9,7 @@
 ![indesign logo](https://upload.wikimedia.org/wikipedia/commons/4/48/Adobe_InDesign_CC_icon.svg)
 
 # INDESIGN
-
+---
 > Document window (in the middle) displays the file you’re currently working on. Multiple open documents appear as tabs in the Document window.
 
 > Menu bar (at the very top) shows the File, Edit, and other menus that give you access to a variety of commands, adjustments, settings, and panels.
