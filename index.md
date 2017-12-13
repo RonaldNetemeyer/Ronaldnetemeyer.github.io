@@ -6,7 +6,7 @@
 ---
 ### [Bio](bio.md)
 
-### [What Marines are](Topic.md)
+### [INDESIGN](Topic.md "indesign")
   
 ### [Photo Album](Photoalbum.md)
 
