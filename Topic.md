@@ -8,8 +8,11 @@
 
 ![indesign logo](https://upload.wikimedia.org/wikipedia/commons/4/48/Adobe_InDesign_CC_icon.svg)
 
-# INDESIGN
+# WHAT IS INDESIGN
+
+#### InDesign is a desktop publishing software application for creating flyers, brochures, magazines, newspapers, and books. Projects created using InDesign can be shared in both digital and print formats. InDesign is used by graphic designers, artists, publishers, and marketing professionals. It is developed and produced by Adobe Systems and is available individually, or as part of the Adobe Creative Cloud. InDesign was previously available as part of the Creative Suite.
 ---
+# tools
 > Document window (in the middle) displays the file you are currently working on. Multiple open documents appear as tabs in the Document window.
 
 > Menu bar (at the very top) shows the File, Edit, and other menus that give you access to a variety of commands, adjustments, settings, and panels.
