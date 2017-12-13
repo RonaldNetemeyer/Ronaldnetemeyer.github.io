@@ -2,7 +2,7 @@
 
 [Bio](bio.md "to my bio")
 
-[INDESIGn](Topic.md "indesign")
+[INDESIGN](Topic.md "indesign")
   
 [Photo Album](Photoalbum.md "My Photos")
 
