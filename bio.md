@@ -2,11 +2,11 @@
 
 # Ronald Netemeyer
 
-[Bio](bio.md "to my bio")
+[Bio](bio)
 
-[INDESIGn](Topic.md "indesign")
+[INDESIGN](Topic)
   
-[Photo Album](Photoalbum.md "My Photos")
+[Photo Album](Photoalbum)
 
 ![ME](http://www2.pictures.gi.zimbio.com/Marines+Patrol+In+Fallujah+kd_imMt1gmHx.jpg)
  
