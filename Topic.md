@@ -1,10 +1,10 @@
 [Home](Index "Home")
 
-[Bio](bio "to my bio")
+### [Bio](bio.md)
 
-[INDESIGN](Topic "indesign")
+### [INDESIGN](Topic.md "indesign")
   
-[Photo Album](Photoalbum "My Photos")
+### [Photo Album](Photoalbum.md)
 
 ![indesign logo](https://upload.wikimedia.org/wikipedia/commons/4/48/Adobe_InDesign_CC_icon.svg)
 
