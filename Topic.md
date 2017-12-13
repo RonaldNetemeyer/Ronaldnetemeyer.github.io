@@ -1,10 +1,10 @@
-[Home](Index.md "Home")
+[Home](Index "Home")
 
-[Bio](bio.md "to my bio")
+[Bio](bio "to my bio")
 
-[INDESIGN](Topic.md "indesign")
+[INDESIGN](Topic "indesign")
   
-[Photo Album](Photoalbum.md "My Photos")
+[Photo Album](Photoalbum "My Photos")
 
 ![indesign logo](https://upload.wikimedia.org/wikipedia/commons/4/48/Adobe_InDesign_CC_icon.svg)
 
@@ -39,4 +39,4 @@
 
 > For images, the frame can be used to crop or mask parts of the image.
 ---
-![indesign](https://www.youtube.com/watch?v=AshfNo-i8Ws&sns=em)
+[indesign](https://www.youtube.com/watch?v=AshfNo-i8Ws&sns=em)
