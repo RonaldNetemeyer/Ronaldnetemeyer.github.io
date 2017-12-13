@@ -1,12 +1,12 @@
-[[Home]](index.md)
+[[Home]](index)
 
 # Ronald Netemeyer
 
-[Bio](bio.md)
+[Bio](bio)
 
-[INDESIGN](Topic.md)
+[INDESIGN](Topic)
   
-[Photo Album](Photoalbum.md)
+[Photo Album](Photoalbum)
 
 ![ME](http://www2.pictures.gi.zimbio.com/Marines+Patrol+In+Fallujah+kd_imMt1gmHx.jpg)
  
