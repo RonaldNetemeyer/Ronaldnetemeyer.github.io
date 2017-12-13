@@ -1,4 +1,4 @@
-[Home](Index)
+[[Home]](index.md)
 
 ### [Bio](bio.md)
 
