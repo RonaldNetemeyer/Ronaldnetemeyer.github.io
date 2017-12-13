@@ -6,7 +6,7 @@
   
 [Photo Album](Photoalbum.md "My Photos")
 
-# Our Gear
+# U.S. MARINES EQUIPMENT
 ---
 ## M1151
 ![M1151](https://upload.wikimedia.org/wikipedia/commons/3/3f/M1151.jpg)
