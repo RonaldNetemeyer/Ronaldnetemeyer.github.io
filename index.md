@@ -9,6 +9,7 @@
 ### [INDESIGN](Topic.md)
   
 ### [Photo Album](Photoalbum.md)
+---
 
 ### this is for the IFSM 200 markdown assignment
 
