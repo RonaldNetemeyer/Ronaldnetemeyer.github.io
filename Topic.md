@@ -26,4 +26,14 @@
 
 >The view menu below the document can be used to change the view of a document.
  
->
+>The tools used to create frames — Type tool, Frame tools, and shape tools — are located in the Tools panel.
+
+>Frames can be created and used as placeholders (a frame without content).
+
+>Text and images in InDesign reside within a frame. When you place images or text in InDesign, a frame is created automatically for that content.
+
+>For text, the frame indicates the area where text is to be shown. Text frames have small boxes in the upper-left and lower-right corners which can be used to connect frames together so text can flow from one frame to another.
+
+>For images, the frame can be used to crop or mask parts of the image.
+
+![indesign](https://youtu.be/b27Q4YUGO8Y)
