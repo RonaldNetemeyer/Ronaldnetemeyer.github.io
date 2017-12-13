@@ -4,11 +4,11 @@
 # Ronald Netemeyer
 ## home page
 ---
-### [Bio](bio.md)
+### [Bio](bio)
 
-### [INDESIGN](Topic.md "indesign")
+### [INDESIGN](Topic "indesign")
   
-### [Photo Album](Photoalbum.md)
+### [Photo Album](Photoalbum)
 
 ### this is for the IFSM 200 markdown assignment
 
