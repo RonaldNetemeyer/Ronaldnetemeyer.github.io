@@ -6,6 +6,8 @@
   
 [Photo Album](Photoalbum.md "My Photos")
 
+![indesign logo](https://upload.wikimedia.org/wikipedia/commons/4/48/Adobe_InDesign_CC_icon.svg)
+
 # INDESIGN
 
 >Document window (in the middle) displays the file you’re currently working on. Multiple open documents appear as tabs in the Document window.
