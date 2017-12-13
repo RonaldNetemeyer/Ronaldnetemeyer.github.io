@@ -1,4 +1,4 @@
-[Home](Index.md "Home")
+[[Home]](index.md)
 
 [Bio](bio.md "to my bio")
 
